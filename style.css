@@ -9,9 +9,11 @@ h1{
 
 .half-width-1{
     width: 40%;
+    height: 30%;
     float:left;
     margin-left: 2%;
 padding-left: 2%;
+text-align: justify;
 }
 
 .half-width-2{
@@ -22,14 +24,14 @@ padding-left: 2%;
 box-shadow: 10px 10px 50px gray;
 border-radius: 10px;
 height: 30%;
-width: 40%;
 padding: 3.5%;
+background-color: white;
 
 }
 
 .half-width-img-1{
     width: 40%;
-    float: right;;
+    float: right;
     margin-right: 4%;
 padding-right: 4%;
 }
@@ -39,6 +41,7 @@ padding-right: 4%;
     float: left;;
     margin-left: 2%;
 padding-left: 2%;
+
 }
 
 
@@ -74,3 +77,23 @@ section{
 .G-Tech{
     color: brown;
 }
+.g-tech{
+    background-image: url("images/gtech-background.png");
+    background-repeat: no-repeat;
+    background-position: left; 
+
+}
+#gtech-cutter{
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(235, 148, 220),rgb(216, 55, 162));
+    border-image-slice: 1;
+   
+}
+
+#gtech-plotter{
+    border-left: 6px solid;
+    border-image: linear-gradient(rgb(131, 3, 110),rgba(240, 142, 207, 0.233));
+    border-image-slice: 1;
+}
+
+
