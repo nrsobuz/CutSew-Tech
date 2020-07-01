@@ -42,10 +42,11 @@ padding-left: 2%;
     margin-bottom: 100px;
 }
 
-.bottom-background{
+.tkt-background{
     background-image: url("images/button-background.png");
     background-repeat: no-repeat;
-    margin-bottom: 100px;    
+    margin-bottom: 100px;   
+    background-position: right; 
 }
 
 section{
