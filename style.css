@@ -16,9 +16,15 @@ padding-left: 2%;
 
 .half-width-2{
     width: 40%;
-    float: right;;
-    margin-right: 2%;
-padding-right: 2%;
+    float: left;;
+    margin-left: 2%;
+padding-left: 2%;
+box-shadow: 10px 10px 50px gray;
+border-radius: 10px;
+height: 30%;
+width: 40%;
+padding: 3.5%;
+
 }
 
 .half-width-img-1{
@@ -65,3 +71,6 @@ section{
     border-radius: 7px;
 }
 
+.G-Tech{
+    color: brown;
+}
