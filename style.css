@@ -85,6 +85,7 @@ section{
 }
 #gtech-cutter{
     border-left: 6px solid;
+    border-radius: 10px;
     border-image: linear-gradient(rgb(235, 148, 220),rgb(216, 55, 162));
     border-image-slice: 1;
    
